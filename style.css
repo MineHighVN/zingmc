@@ -62,7 +62,6 @@ footer{
     height: auto;
     background:rgb(2, 2, 2);
     width: 100%;
-    transform: translateY(-10px);
     color: rgb(221, 221, 221);
 }
 
